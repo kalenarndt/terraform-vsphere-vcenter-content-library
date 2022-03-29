@@ -5,7 +5,7 @@
 
 | Name | Version |
 |------|---------|
-| <a name="requirement_nsxt"></a> [nsxt](#requirement\_nsxt) | ~>2.1.1 |
+| <a name="requirement_vsphere"></a> [vsphere](#requirement\_vsphere) | ~>2.1.1 |
 
 ## Providers
 
